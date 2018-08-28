@@ -1,2 +1,2 @@
 # Dynamico
-Andrew likes to suck on his friends toes in a sexual manner
+Andrew likes to suck on his friends penises in a sexual manner
