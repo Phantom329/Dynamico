@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Linkman3211/documents/visual studio 2017/Projects/HammerGander/HammerGander/Content/graphics/ship.png</SourceFile>
-  <SourceTime>2018-05-09T09:21:57.2637882-04:00</SourceTime>
-  <DestFile>C:/Users/Linkman3211/documents/visual studio 2017/Projects/HammerGander/HammerGander/Content/bin/Windows/graphics/ship.xnb</DestFile>
-  <DestTime>2018-08-27T20:58:39.2411247-04:00</DestTime>
+  <SourceFile>C:/Users/Andrew/Documents/Dynamico/HammerGander/HammerGander/Content/graphics/ship.png</SourceFile>
+  <SourceTime>2018-08-28T20:41:14.4787292-04:00</SourceTime>
+  <DestFile>C:/Users/Andrew/Documents/Dynamico/HammerGander/HammerGander/Content/bin/Windows/graphics/ship.xnb</DestFile>
+  <DestTime>2018-08-28T20:52:31.0761855-04:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -24,3 +24,29 @@ c:\users\linkman3211\documents\visual studio 2017\Projects\HammerGander\HammerGa
 c:\users\linkman3211\documents\visual studio 2017\Projects\HammerGander\HammerGander\obj\x86\Debug\HammerGander.exe
 c:\users\linkman3211\documents\visual studio 2017\Projects\HammerGander\HammerGander\obj\x86\Debug\HammerGander.pdb
 C:\Users\Linkman3211\documents\visual studio 2017\Projects\HammerGander\HammerGander\bin\Windows\x86\Debug\Content\graphics\ship.xnb
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\Content\graphics\ship.xnb
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\HammerGander.exe
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\HammerGander.pdb
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\obj\x86\Debug\HammerGander.csprojAssemblyReference.cache
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\obj\x86\Debug\HammerGander.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\obj\x86\Debug\HammerGander.csproj.CopyComplete
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\obj\x86\Debug\HammerGander.exe
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\obj\x86\Debug\HammerGander.pdb
