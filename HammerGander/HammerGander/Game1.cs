@@ -25,6 +25,7 @@ namespace HammerGander
 
         // Instatiate classes
         Player p = new Player();
+        Cursor c = new Cursor();
 
         //Sets first gamestate to "Playing"
         //State gameState = State.Playing;
@@ -51,6 +52,7 @@ namespace HammerGander
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             p.LoadContent(Content);
+            c.LoadContent(Content);
         }
 
         
@@ -66,6 +68,7 @@ namespace HammerGander
                 Exit();
 
             p.Update(gameTime);
+            c.Update(gameTime);
 
             /*switch(gameState)
             {
@@ -84,6 +87,7 @@ namespace HammerGander
 
             spriteBatch.Begin();
             p.Draw(spriteBatch);
+            c.Draw(spriteBatch);
             spriteBatch.End();
 
             base.Draw(gameTime);

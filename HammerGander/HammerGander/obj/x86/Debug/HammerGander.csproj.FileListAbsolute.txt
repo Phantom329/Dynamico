@@ -50,3 +50,4 @@ C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\obj\x86\Debug\Hamme
 C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\obj\x86\Debug\HammerGander.csproj.CopyComplete
 C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\obj\x86\Debug\HammerGander.exe
 C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\obj\x86\Debug\HammerGander.pdb
+C:\Users\Andrew\Documents\Dynamico\HammerGander\HammerGander\bin\Windows\x86\Debug\Content\graphics\cursor1.xnb
